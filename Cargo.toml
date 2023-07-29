@@ -1,0 +1,11 @@
+[package]
+name = "yahu"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sheroz Khaydarov"]
+description = "Yahu Platform"
+documentation = "https://docs.rs/yahu"
+readme = "README.md"
+repository = "https://github.com/sheroz/yahu"
+license = "MIT"
+

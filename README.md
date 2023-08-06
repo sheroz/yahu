@@ -4,7 +4,7 @@
 [![build & test](https://github.com/sheroz/yahu/actions/workflows/ci.yml/badge.svg)](https://github.com/sheroz/yahu/actions/workflows/ci.yml)
 [![MIT](https://img.shields.io/github/license/sheroz/yahu)](https://github.com/sheroz/hayvore/tree/main/LICENSE)
 
-## Messaging Platform
+## Communication Platform
 
 ### Features
 * Instant Messaging
